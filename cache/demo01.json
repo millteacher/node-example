@@ -1,0 +1,7 @@
+{
+	"persons":[
+		{"name":"mill","age":"29","love":"swinming"},
+		{"name":"lina","age":"23","love":"singsong"},
+		{"name":"jone","age":"27","love":"run"}
+	]
+}
